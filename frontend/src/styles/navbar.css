@@ -1,0 +1,30 @@
+.navbar{
+
+    background:#2563eb;
+    color:white;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:20px 40px;
+
+}
+
+.navbar button{
+
+    background:white;
+
+    color:#2563eb;
+
+    border:none;
+
+    padding:10px 20px;
+
+    border-radius:8px;
+
+    cursor:pointer;
+
+}
