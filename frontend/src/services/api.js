@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://13.126.26.108:5000/api",
+  baseURL: "https://finance-tracker-fk60.onrender.com/api",
 });
 
 API.interceptors.request.use((req) => {
